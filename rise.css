@@ -1,0 +1,6 @@
+﻿.rendered_html code, pre, .prompt, .CodeMirror pre, .output_area pre {font-family: Consolas, 나눔스퀘어라운드; font-size: 12pt; line-height: 150%;}
+table.dataframe {
+    border-collapse: collapse; 
+    border: none; 
+    font-family: Consolas, 나눔스퀘어라운드; font-size: 10pt; line-height: 120%;
+}
